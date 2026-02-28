@@ -1,0 +1,4 @@
+# Unity Windows File Picker Changelog
+
+## [1.0.0] - 2026/02/28
+- Unity Windows File Picker release.
