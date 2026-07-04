@@ -1,6 +1,6 @@
 {
-    "name": "JasonSkillman.UnityWindowsFilePicker",
-    "rootNamespace": "JasonSkillman.UnityWindowsFilePicker",
+    "name": "JasonSkillman.WindowsFilePicker",
+    "rootNamespace": "JasonSkillman.WindowsFilePicker",
     "references": [],
     "includePlatforms": [
         "Editor",

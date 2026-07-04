@@ -1,7 +1,7 @@
 {
-  "name": "com.jasonskillman.unitywindowsfilepicker",
-  "displayName": "Unity Windows File Picker",
-  "version": "1.0.0",
+  "name": "com.jasonskillman.windowsfilepicker",
+  "displayName": "Windows File Picker",
+  "version": "1.0.1",
   "description": "Plugin for Unity to open the Windows File Explorer at runtime. Supports x32, x64, Mono, and IL2CPP.",
   "author": {
     "name": "Jason Skillman",
